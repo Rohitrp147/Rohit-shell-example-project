@@ -5,4 +5,5 @@
 9999	99	t9	0001	company	rr roadlines	abc	123456	kolhapur	666666	CFR	kolhapur	01	0
 9999	99	t9	0001	company	nandu dairyfarm	abc	123456	sangli	666666	CFR	sangli	01	0
 9999	99	t9	0001	company	drp pharma	abc	123456	patna	666666	CFR	patna	01	0
-9999	99	t9	0001	company	patil devlopers	abc	123456	bhopal	666666	CFR	bhopal	01	0
+9999	99	t9	0001	company	patil devlopers	abc	123456	bhopal	666666	CFR	bhopal	01	
+9990    78      t5      0005    RR			ui	741259	pune	741258	uuu	mumbai	07	0	
